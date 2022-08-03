@@ -1,0 +1,27 @@
+.row div {
+    max-resolution: 00.25rem;
+}
+
+.col-xs {
+    background-color: tomato;
+}
+
+.col-sm {
+    background-color: royalblue;
+}
+
+.col-md {
+    background-color: blueviolet;
+}
+
+.col-lg {
+    background-color: slateblue;
+}
+
+.col-xl {
+    background-color: sandybrown;
+}
+
+.col-xxl {
+    background-color: olivedrab;
+}
